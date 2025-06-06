@@ -3,7 +3,7 @@ Using skills from Google Data Analyst certificate in collaboration with Gemini t
 # Project: Global Trends in Renewable Energy Adoption
 
 **Author:** Wil Watkins
-**Date:** June 7, 2025
+**Date:** June 6, 2025
 
 ## 1. Project Objective
 To analyze global and regional trends in renewable energy adoption between 2000 and 2020, identifying key drivers, leading countries, and regional differences. This project demonstrates skills in data acquisition, cleaning, processing, analysis, and visualization, aligned with the Google Data Analytics Professional Certificate curriculum.
